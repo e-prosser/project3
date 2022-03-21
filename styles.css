@@ -18,13 +18,3 @@ body {
 h3 {
   text-align: center;
 }
-
-#datepicker {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-}
-
-label {
-  font-size: small;
-}
